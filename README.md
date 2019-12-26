@@ -12,5 +12,5 @@ Simple react exercises.
 
 ## Link
 
-- [Live](https://github.com/onion-kamil/react-js-exercises/checkbox-validation)
+- [Live](https://onion-kamil.github.io/react-js-exercises/checkbox-validation/)
 - [Project](checkbox-validation/)
