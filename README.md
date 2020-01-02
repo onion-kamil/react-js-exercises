@@ -36,3 +36,14 @@ Simple react exercises.
 
 - [Live](https://onion-kamil.github.io/react-js-exercises/work-with-arrays/)
 - [Project](work-with-arrays/)
+
+# 4. Interactive menu
+
+## About
+
+- Show the amount and size of the order after selecting products from the list.
+
+## Link
+
+- [Live](https://onion-kamil.github.io/react-js-exercises/interactive-menu/)
+- [Project](interactive-menu/)
