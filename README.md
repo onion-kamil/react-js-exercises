@@ -58,3 +58,14 @@ Simple react exercises.
 
 - [Live](https://onion-kamil.github.io/react-js-exercises/form/)
 - [Project](form/)
+
+# 6. Form
+
+## About
+
+- Select the product to be converted, calculate the value in several currencies.
+
+## Link
+
+- [Live](https://onion-kamil.github.io/react-js-exercises/exchange-counter/)
+- [Project](exchange-counter/)
